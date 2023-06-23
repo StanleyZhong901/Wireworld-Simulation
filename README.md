@@ -1,7 +1,6 @@
 # Wireworld-Simulation
-University Project Simulating a Wire World
+This program simulates the cellular automaton proposed by Brian Silverman in C. The program is intended to run on a UNIX OS.
 
-This program simulates the cellular automaton proposed by Brian Silverman.
 You can read more here:
 https://en.wikipedia.org/wiki/Wireworld
 
