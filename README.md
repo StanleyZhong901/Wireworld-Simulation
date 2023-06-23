@@ -4,6 +4,8 @@ This program simulates the cellular automaton proposed by Brian Silverman in C. 
 You can read more here:
 https://en.wikipedia.org/wiki/Wireworld
 
+## Rules for Wireworld
+
 There are 4 types of cells within the simulation:
 - Empty
 - Electron Head
@@ -19,7 +21,9 @@ There are 4 criteria that the simulation must obey:
 *Only if there are 1 or 2 Electron Heads Orthogonally or Diagonally
 
 Note:
+
   Some files were provided by the University and as such, were not created by me.
+  
   Them being:
 - OR.txt
 - REFLECTOR.txt
