@@ -6,10 +6,13 @@ https://en.wikipedia.org/wiki/Wireworld
 
 ## Running the Program
 Commands for running the Program:
+
 \>Make
+
 \>./wireworld [.txt File Name] [Number of Steps] [Step Duration]
 
 To remove all object files:
+
 \>make clean
 
 ## Rules for Wireworld
