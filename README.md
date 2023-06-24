@@ -4,6 +4,14 @@ This program simulates the cellular automaton proposed by Brian Silverman in C. 
 You can read more here:
 https://en.wikipedia.org/wiki/Wireworld
 
+## Running the Program
+Commands for running the Program:
+>Make
+>./wireworld [.txt File Name] [Number of Steps] [Step Duration]
+
+To remove all object files:
+>make clean
+
 ## Rules for Wireworld
 
 There are 4 types of cells within the simulation:
